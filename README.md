@@ -1,3 +1,9 @@
+### R Programming - Programming Assignment 2
+
+This fork is a solution to the R Programming course's programming
+assignment 2. Below are the original instructions for this assignment.
+The cachematrix.R file contains the solution.
+
 ### Introduction
 
 This second programming assignment will require you to write an R
